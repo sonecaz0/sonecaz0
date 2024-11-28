@@ -1,16 +1,20 @@
-## Hi there 👋
+Aqui está a versão atualizada da sua bio com as mudanças que você pediu:
 
-<!--
-**sonecaz0/sonecaz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Olá, Eu sou oGustavo 👋  
+Sou um **desenvolvedor web** apaixonado por criar soluções eficientes e escaláveis. Atualmente, estou aplicando minhas habilidades em projetos de desenvolvimento, como o **Rotten Carnais**, onde exploro técnicas de design e narrativa digital para oferecer uma experiência única.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 O que eu faço  
+- **Desenvolvedor Web:** Focado em criar soluções web interativas, responsivas e de alto desempenho.  
+- **Programador:** Explorando constantemente novas tecnologias e ferramentas para melhorar a performance e a experiência do usuário.  
+
+### 🌟 Foco atual  
+- Buscando aprimorar meus conhecimentos em **frameworks modernos** e **melhorias de performance**, além de estudar **UX/UI** para criar interfaces ainda mais intuitivas.  
+- Continuando a evolução como programador web, focando em otimizar o código e aprender novas linguagens.  
+
+### 🎮 Projetos  
+- **Rotten Carnais:** Um jogo que mistura narrativa e design digital para desafiar os jogadores de maneira imersiva.
+
+---
+
