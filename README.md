@@ -1,8 +1,4 @@
-Aqui está a versão atualizada da sua bio com as mudanças que você pediu:
-
----
-
-## Olá, Eu sou oGustavo 👋  
+## Olá, Eu sou o Gustavo 👋  
 Sou um **desenvolvedor web** apaixonado por criar soluções eficientes e escaláveis. Atualmente, estou aplicando minhas habilidades em projetos de desenvolvimento, como o **Rotten Carnais**, onde exploro técnicas de design e narrativa digital para oferecer uma experiência única.  
 
 ### 💻 O que eu faço  
@@ -16,5 +12,5 @@ Sou um **desenvolvedor web** apaixonado por criar soluções eficientes e escal�
 ### 🎮 Projetos  
 - **Rotten Carnais:** Um jogo que mistura narrativa e design digital para desafiar os jogadores de maneira imersiva.
 
----
+
 
